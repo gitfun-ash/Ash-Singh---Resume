@@ -1,0 +1,41 @@
+baseURL = "https://gitfun-ash.github.io/ashsingh-resume/"
+languageCode = "en-us"
+title = "Ashish K. Singh"
+theme = "hugo-PaperMod"
+enableGitInfo = true
+
+[params]
+  description = "Resume and portfolio for Ashish K. Singh"
+  author = "Ashish K. Singh"
+  homeInfoParams = { Title = "Ashish K. Singh", Content = "Independent Python-Focused Software Architect" }
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "skills"
+    name = "Skills"
+    url = "/skills/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
