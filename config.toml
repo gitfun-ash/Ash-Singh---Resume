@@ -7,7 +7,6 @@ enableGitInfo = true
 [params]
   description = "Resume and portfolio for Ashish K. Singh"
   author = "Ashish K. Singh"
-  homeInfoParams = { Title = "Ashish K. Singh", Content = "Independent Python-Focused Software Architect" }
 
 [menu]
   [[menu.main]]
