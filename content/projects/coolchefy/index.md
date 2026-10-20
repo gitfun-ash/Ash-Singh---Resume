@@ -13,11 +13,15 @@ CoolChefy brings recipe management, meal planning, and shopping lists together i
 
 <!--more-->
 
-**Role:** Architect, full-stack developer
+**Role:** Architect, UI/frontend designer, full-stack developer
 
 **Stack:** Python (Django), Vue.js, Tailwind CSS, Neon Postgres, Vercel/Render, Cloudflare
 
 [Visit the live CoolChefy website](https://coolchefy.com/)
+
+## UI and frontend design
+
+I designed and built CoolChefy's UI and frontend to create a clean layout and a warm feel tailored to its audience.
 
 ## The workflow
 

@@ -6,7 +6,7 @@ title: "Projects"
 
 ### ScreenGapResearch
 
-An asynchronous prediction service for materials researchers: submit a CSV, select one or both models, and receive results by email. Researchers can also use their token to check recent jobs and usage.
+An asynchronous prediction service for materials researchers: submit a CSV, select one or both models, and receive results by email. I designed its UI and frontend around a clear, low-friction workflow.
 
 ![ScreenGapResearch CSV upload and model selection](images/projects/screengapresearch.webp)
 
@@ -16,7 +16,7 @@ An asynchronous prediction service for materials researchers: submit a CSV, sele
 
 ### CoolChefy
 
-A warm, client-focused meal-planning experience that connects recipe entry, one-click meal planning, and generated shopping lists.
+A warm, client-focused meal-planning experience that connects recipe entry, one-click meal planning, and generated shopping lists. I designed its UI and frontend to make the workflow feel smooth and intuitive.
 
 ![CoolChefy seasonal recipe cards](images/projects/coolchefy.webp)
 

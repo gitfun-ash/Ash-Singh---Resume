@@ -12,7 +12,7 @@ I build production systems end‑to‑end: backend APIs, ML inference pipelines,
 
 ### ScreenGapResearch
 
-A straightforward prediction-delivery pipeline for materials researchers: submit a CSV, select the experimental model, computational model, or both, and receive results by email. A secret token lets researchers check their recent jobs and usage without creating a password-based account.
+A straightforward prediction-delivery pipeline for materials researchers: submit a CSV, select the experimental model, computational model, or both, and receive results by email. I designed its UI and frontend around a clear, low-friction workflow.
 
 ![ScreenGapResearch CSV upload and model selection](images/projects/screengapresearch.webp)
 
@@ -20,7 +20,7 @@ A straightforward prediction-delivery pipeline for materials researchers: submit
 
 ### CoolChefy
 
-A client-focused meal-planning experience with a clean, warm feel. Add a recipe, put it into a meal plan with one click, then use the plan to generate a shopping list.
+A client-focused meal-planning experience with a clean, warm feel. I designed its UI and frontend around a smooth recipe-to-shopping-list flow.
 
 ![CoolChefy seasonal recipe cards](images/projects/coolchefy.webp)
 

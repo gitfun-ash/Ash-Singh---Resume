@@ -9,11 +9,15 @@ ScreenGapResearch gives busy materials researchers a clean, functional way to re
 
 <!--more-->
 
-**Role:** Architect, ML pipeline engineer
+**Role:** Architect, UI/frontend designer, ML pipeline engineer
 
 **Stack:** FastAPI, Python ML stack, Azure Container Instances, Azure Storage Queues
 
 [Visit the live ScreenGapResearch website](https://www.screengapresearch.com/)
+
+## UI and frontend design
+
+I designed and built ScreenGapResearch's UI and frontend around a clear, low-friction workflow for researchers.
 
 ## A simple submission workflow
 
