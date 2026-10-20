@@ -2,6 +2,7 @@
 title: "ScreenGapResearch"
 description: "A straightforward, token-based workflow for materials researchers to submit compositions and review model usage."
 hideMeta: true
+hiddenInHomeList: "true"
 ---
 
 ScreenGapResearch gives busy materials researchers a clean, functional way to request composition predictions without creating a traditional account or password. They provide their company name and email address, verify their email, and receive a secret token to keep safe and use when submitting jobs or checking usage.

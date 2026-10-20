@@ -4,8 +4,6 @@ date: 2026-10-16
 draft: false
 ---
 
-### Skills
-
 **Software Engineering**  
 Python; Django; FastAPI; API design; ML pipelines; distributed systems; Vue.js; TailwindCSS
 

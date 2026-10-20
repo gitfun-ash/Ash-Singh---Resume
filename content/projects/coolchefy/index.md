@@ -2,6 +2,7 @@
 title: "CoolChefy"
 description: "A meal-planning experience that connects recipe entry, meal plans, and shopping lists."
 hideMeta: true
+hiddenInHomeList: "true"
 cover:
   image: "recipe-catalog.png"
   alt: "CoolChefy recipe cards with one-click Add to mealplan buttons"

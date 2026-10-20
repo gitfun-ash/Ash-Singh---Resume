@@ -4,8 +4,6 @@ date: 2026-10-16
 draft: false
 ---
 
-### Contact
-
 **Email:** domer03@gmail.com  
 **Location:** Crozet, VA, USA
 
